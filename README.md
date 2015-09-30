@@ -324,4 +324,4 @@ Now run your tests with `learn` and watch Firefox come to life. It's okay if som
 
 ### Deploy to Heroku
 
-![Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/learn-co-curriculum/sinatra-tic-tac-toe)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/learn-co-curriculum/sinatra-tic-tac-toe)
