@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe Sinatra - Learn.co",
+  "description": "Tic Tac Toe built in Sinatra from Learn.co",
+  "repository": "https://github.com/learn-co-curriculum/sinatra-tic-tac-toe",
+  "keywords": ["ruby", "sinatra"]
+}
