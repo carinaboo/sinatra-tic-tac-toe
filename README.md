@@ -321,3 +321,7 @@ describe './app.rb - Tic Tac Toe Sinatra', :js => true do
 ```
 
 Now run your tests with `learn` and watch Firefox come to life. It's okay if some of the tests are now failing. You can undo any changes you've made since to get them to pass.
+
+### Deploy to Heroku
+
+![Deploy to Heroku](https://heroku.com/deploy?template=https://github.com/learn-co-curriculum/sinatra-tic-tac-toe)
